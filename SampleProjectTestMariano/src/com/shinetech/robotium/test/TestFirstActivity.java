@@ -1,14 +1,13 @@
 package com.shinetech.robotium.test;
 
+import android.test.ActivityInstrumentationTestCase2;
+import android.widget.Button;
+import android.widget.TextView;
+
 import com.jayway.android.robotium.solo.Solo;
 import com.shinetech.robotium.Main;
 import com.shinetech.robotium.NewActivity;
 import com.shinetech.robotium.R;
-
-import android.test.ActivityInstrumentationTestCase2;
-import android.test.suitebuilder.annotation.Smoke;
-import android.widget.Button;
-import android.widget.TextView;
 
 
 public class TestFirstActivity extends ActivityInstrumentationTestCase2<Main> {

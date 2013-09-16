@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">SampleProject</string>
+    <string name="title_activity_main">Main</string>
+    <string name="before_click">before click</string>
+    <string name="after_click">after click</string>
+    <string name="click_me">Click me</string>
+    <string name="touch_this_text">touch this text</string>
+    <string name="touch_received">touch received</string>
+    <string name="launch_new_activity">Launch new activity</string>
+    <string name="yay_we_got_here">yay, we got here!</string>
+    <string name="new_activity_name">New Activity</string>
+    <string name="click_to_fade_away">Click to animate</string>
+
+</resources>
